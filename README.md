@@ -64,6 +64,9 @@ The purpose of this project is to scrape data from the http://books.toscrape.com
 - The web scraping project achieved its goal of collecting valuable data from the http://books.toscrape.com/ website.
 - The data can be utilized for market analysis, recommendation systems, or academic research.
 
+## License
+This dataset is provided under the [MIT License](LICENSE), allowing for unrestricted use, modification, and distribution.
+
 ## References:
 - [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Requests Documentation](https://docs.python-requests.org/en/latest/)
