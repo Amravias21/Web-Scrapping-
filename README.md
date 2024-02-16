@@ -26,7 +26,7 @@ The purpose of this project is to scrape data from the http://books.toscrape.com
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-scraping-project.git
+   git clone https://github.com/Amravias21/Web-Scrapping-.git
    cd your-scraping-project
    ```
 
@@ -38,7 +38,7 @@ The purpose of this project is to scrape data from the http://books.toscrape.com
 ## Usage:
 1. Run the scraping script:
    ```bash
-   python scrape_books.py
+   week_5_web_scrapping(sai_varma).py
    ```
 
 2. The script will fetch data from the website and store it in a CSV/JSON file.
